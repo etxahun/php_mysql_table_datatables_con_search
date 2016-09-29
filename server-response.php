@@ -21,10 +21,10 @@
     $sTable = "producto";
 
     /* Database connection information */
-    $gaSql['user']       = "root";
-    $gaSql['password']   = "101281";
-    $gaSql['db']         = "supermarket";
-    $gaSql['server']     = "172.17.0.2";
+    $gaSql['user']       = "xxxxxxx";
+    $gaSql['password']   = "yyyyyyy";
+    $gaSql['db']         = "food";
+    $gaSql['server']     = "z.z.z.z";
 
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * * * *  * * * * * * * * * * * * * * * * * *
